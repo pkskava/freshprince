@@ -1,0 +1,19 @@
+body {
+    background-color: orange;
+    color:blue;
+    font-family: "Times New Roman", "Times", "serif";
+}
+h1 {
+	font-family: "Arial", "san-serif";
+	color:red;
+	font-size:60;
+}
+h4 {
+	font-family: "Arial", "san-serif";
+	color:black;
+}
+p {
+   margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
